@@ -2,8 +2,8 @@
 set -e
 
 # Change USERNAME, PASSWORD
-USERNAME="201180024"
-PASSWORD="18932244740a"
+USERNAME=""
+PASSWORD=""
 
 echo "--------Begin to Submit--------"
 
